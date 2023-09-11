@@ -143,10 +143,10 @@ print(c)
 c = a >> 2
 print(c)
 """
-
+"""
 my_list = [9, 4, 3, 7, 8, 'hi']
 print(2 not in my_list)
-
+"""
 my_dic = {"key1" : "v1", "k2" : "v2"}
 print("k2" in my_dic)
 
